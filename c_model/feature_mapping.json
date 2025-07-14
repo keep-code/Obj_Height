@@ -1,0 +1,43 @@
+{
+  "feature_names": [
+    "PosDeDis1",
+    "PosDeAmp1",
+    "PosDeDis2",
+    "PosDeAmp2",
+    "PosCeDis1",
+    "PosCeAmp1",
+    "PosCeDis2",
+    "PosCeAmp2",
+    "TrainObjDist",
+    "AvgDeEchoHigh_SameTx",
+    "AvgCeEchoHigh_SameTxRx",
+    "OdoDiffObjDis",
+    "OdoDiffDeDis",
+    "OdoDiff",
+    "ObjDiff",
+    "CosAngle",
+    "RateOfVhoDeDiff",
+    "AngleDist",
+    "DeEcho_Ratio",
+    "CeEcho_Ratio",
+    "DeAmp_Ratio",
+    "CeAmp_Ratio",
+    "Total_DeEcho",
+    "Total_CeEcho",
+    "Total_DeAmp",
+    "Total_CeAmp",
+    "DeDis_Diff",
+    "CeDis_Diff",
+    "DeAmp_Diff",
+    "CeAmp_Diff",
+    "Avg_Echo_Strength",
+    "Distance_Ratio",
+    "Echo_Strength_Ratio",
+    "Odo_Stability"
+  ],
+  "feature_count": 34,
+  "model_info": {
+    "trees": 1000,
+    "objective": "binary sigmoid:1"
+  }
+}

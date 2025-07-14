@@ -1,0 +1,43 @@
+模型特征列表:
+==================================================
+总特征数: 34
+创建时间: 2025-07-14 11:01:57
+==================================================
+
+基础特征:
+ 1. PosDeDis1
+ 2. PosDeAmp1
+ 3. PosDeDis2
+ 4. PosDeAmp2
+ 5. PosCeDis1
+ 6. PosCeAmp1
+ 7. PosCeDis2
+ 8. PosCeAmp2
+ 9. TrainObjDist
+10. AvgDeEchoHigh_SameTx
+11. AvgCeEchoHigh_SameTxRx
+12. OdoDiffObjDis
+13. OdoDiffDeDis
+14. OdoDiff
+15. ObjDiff
+16. CosAngle
+17. RateOfVhoDeDiff
+18. AngleDist
+19. Total_DeEcho
+20. Total_CeEcho
+21. Total_DeAmp
+22. Total_CeAmp
+
+工程特征 (12个):
+ 1. DeEcho_Ratio
+ 2. CeEcho_Ratio
+ 3. DeAmp_Ratio
+ 4. CeAmp_Ratio
+ 5. DeDis_Diff
+ 6. CeDis_Diff
+ 7. DeAmp_Diff
+ 8. CeAmp_Diff
+ 9. Avg_Echo_Strength
+10. Distance_Ratio
+11. Echo_Strength_Ratio
+12. Odo_Stability

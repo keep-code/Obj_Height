@@ -1,0 +1,44 @@
+{
+  "timestamp": "2025-07-12T19:25:02.138752",
+  "optimal_threshold": 0.2720594716698584,
+  "cv_scores": {
+    "accuracy": 0.9715504720406681,
+    "auc": 0.996278908839562,
+    "precision": 0.9882093030519368,
+    "recall": 0.9709694142042509
+  },
+  "feature_count": 38,
+  "selected_feature_count": 30,
+  "config": {
+    "model_dir": "D:\\PythonProject\\model\\saved_model",
+    "plot_dir": "D:\\PythonProject\\results\\visualization_results",
+    "results_dir": "D:\\PythonProject\\results\\prediction_results",
+    "misclassified_dir": "D:\\PythonProject\\results\\misclassified_results",
+    "log_dir": "D:\\PythonProject\\results\\logs",
+    "auto_create_dirs": true,
+    "encoding": "utf-8-sig",
+    "test_size": 0.0,
+    "random_state": 42,
+    "save_model": true,
+    "cv_folds": 5,
+    "threshold_optimization": true,
+    "feature_selection": true,
+    "model_params": {
+      "objective": "binary",
+      "metric": "binary_logloss",
+      "boosting_type": "gbdt",
+      "num_leaves": 63,
+      "learning_rate": 0.03,
+      "feature_fraction": 0.8,
+      "bagging_fraction": 0.8,
+      "bagging_freq": 5,
+      "min_data_in_leaf": 20,
+      "lambda_l1": 0.1,
+      "lambda_l2": 0.1,
+      "verbose": -1,
+      "is_unbalance": true,
+      "random_state": 42
+    },
+    "normalize_features": false
+  }
+}
