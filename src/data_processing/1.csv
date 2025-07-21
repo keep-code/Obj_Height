@@ -1,0 +1,52 @@
+﻿ObjName,OdDir,HeightLabel,zhao_od_ID,TotalSessions,SessionInfo,TotalDataPoints,DistanceRange,StatusAnalysis,ErrorDescription,FirstErrorDist,Notes
+15cm草丛curb,2,0,1,1,第1次,5,1840-1616,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+15cm草丛curb,2,0,2,1,第1次,2,1659-1501,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+15cm草丛curb,2,0,3,1,第1次,17,1403-780,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,1,0,1,1,第1次,27,1590-573,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,1,0,2,1,第1次,4,1439-915,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,1,0,3,1,第1次,51,1356-753,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,1,0,5,1,第1次,32,648-426,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,1,0,7,1,第1次,2,686-575,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+10cm路沿mid,2,0,1,7,"第1,2,3,4,5,6,7次",343,3532-866,全程正确,无,无,共7次测试，全程HeightStatus与HeightLabel一致
+10cm路沿mid,2,0,2,3,"第1,2,3次",42,3674-1042,全程正确,无,无,共3次测试，全程HeightStatus与HeightLabel一致
+10cm路沿mid,2,0,3,1,第1次,2,1796-1331,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+11cm草丛curb,2,0,1,1,第1次,11,1660-1303,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+11cm草丛curb,2,0,2,1,第1次,6,1493-1336,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+11cm草丛curb,2,0,3,1,第1次,6,1281-1086,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+10cm路沿mid,1,0,2,5,第2次,13,2597-1014,存在错误,首次错误报告距离:1568; 错误区间:Dist:1568-1568(报高); 正确区间:Dist:2597-1776(报低); Dist:1487-1014(报低); Dist<1487后全程报低,1568,第2次测试中HeightStatus与HeightLabel不一致
+10cm路沿mid,1,0,2,5,第3次,107,3153-665,存在错误,首次错误报告距离:2483; 错误区间:Dist:2483-2317(报高); 正确区间:Dist:3153-2721(报低); Dist:1720-665(报低); Dist<1720后全程报低,2483,第3次测试中HeightStatus与HeightLabel不一致
+10cm路沿mid,1,0,2,5,"第1,4,5次",370,2766-586,全程正确,无,无,"第1,4,5次测试全程正确"
+10cm路沿mid,1,0,3,4,"第1,2,3,4次",419,3074-658,全程正确,无,无,共4次测试，全程HeightStatus与HeightLabel一致
+10cm路沿mid,1,0,4,5,第2次,45,2513-633,存在错误,首次错误报告距离:2169; 错误区间:Dist:2169-1687(报高); 正确区间:Dist:2513-2338(报低); Dist:1509-633(报低); Dist<1509后全程报低,2169,第2次测试中HeightStatus与HeightLabel不一致
+10cm路沿mid,1,0,4,5,第3次,9,2139-1052,存在错误,首次错误报告距离:1697; 错误区间:Dist:1697-1697(报高); Dist:1651-1651(报高); 正确区间:Dist:2139-1858(报低); Dist:1697-1697(报低); Dist:1275-1052(报低),1697,第3次测试中HeightStatus与HeightLabel不一致
+10cm路沿mid,1,0,4,5,"第1,4,5次",165,2339-619,全程正确,无,无,"第1,4,5次测试全程正确"
+10cm路沿mid,1,0,1,7,第1次,11,2156-799,存在错误,首次错误报告距离:1583; 错误区间:Dist:1583-1180(报高); 正确区间:Dist:2156-2156(报低); Dist:1147-799(报低); Dist<1147后全程报低,1583,第1次测试中HeightStatus与HeightLabel不一致
+10cm路沿mid,1,0,1,7,第3次,51,3491-654,存在错误,首次错误报告距离:2575; 错误区间:Dist:2575-2575(报高); Dist:2510-1983(报高); 正确区间:Dist:3491-2794(报低); Dist:2530-2530(报低); Dist:1889-654(报低); Dist<1889后全程报低,2575,第3次测试中HeightStatus与HeightLabel不一致
+10cm路沿mid,1,0,1,7,第4次,40,2223-697,存在错误,首次错误报告距离:2223; 错误区间:Dist:2223-1999(报高); Dist:1739-1739(报高); Dist:1576-1576(报高); Dist:1521-1521(报高); Dist:1346-1346(报高); 正确区间:Dist:1832-1815(报低); Dist:1732-1583(报低); Dist:1562-1547(报低); Dist:1514-1358(报低); Dist:1315-697(报低); Dist<1315后全程报低,2223,第4次测试中HeightStatus与HeightLabel不一致
+10cm路沿mid,1,0,1,7,"第2,5,6,7次",172,3905-615,全程正确,无,无,"第2,5,6,7次测试全程正确"
+10cm路沿mid,1,0,5,1,第1次,79,1525-667,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,1,0,1,1,第1次,29,1990-1412,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,1,0,2,1,第1次,3,1884-1587,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,1,0,3,1,第1次,1,1808-1808,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,1,0,4,1,第1次,44,1709-579,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,1,0,5,1,第1次,2,1593-1463,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,2,0,2,1,第1次,28,2047-599,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,2,0,3,1,第1次,15,2016-1538,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,2,0,1,1,第1次,5,1638-1236,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm草砖curb,2,0,4,1,第1次,13,1559-1208,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+11cm草丛curb,1,0,1,1,第1次,7,1835-1276,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+11cm草丛curb,1,0,2,1,第1次,4,1345-1292,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+11cm草丛curb,1,0,3,1,第1次,41,1325-747,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+13cm石头curb,1,0,1,2,"第1,2次",27,4143-1280,全程正确,无,无,共2次测试，全程HeightStatus与HeightLabel一致
+13cm石头curb,1,0,2,1,第1次,60,1711-601,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+13cm石头curb,1,0,5,1,第1次,13,1484-1281,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,2,0,1,1,第1次,9,1510-843,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,2,0,2,1,第1次,18,1468-669,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+12cm灌木丛curb,2,0,3,1,第1次,37,1262-992,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+15cm草丛curb,1,0,1,1,第1次,9,1873-681,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+15cm草丛curb,1,0,4,1,第1次,1,1742-1742,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+15cm草丛curb,1,0,3,1,第1次,3,1713-869,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+15cm草丛curb,1,0,2,1,第1次,78,1692-413,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+13cm石头curb,2,0,1,1,第1次,35,1777-1222,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+13cm石头curb,2,0,2,1,第1次,3,1296-1240,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
+13cm石头curb,2,0,3,1,第1次,17,1207-831,全程正确,无,无,共1次测试，全程HeightStatus与HeightLabel一致
